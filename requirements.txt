@@ -1,8 +1,10 @@
 streamlit==1.46.0
-requests==2.32.4
+requests==2.32.3
 anthropic==0.34.2
-requests-html==0.10.0
 beautifulsoup4==4.12.3
 trafilatura==1.12.2
 pandas==2.0.3
 lxml==5.3.0
+pyquery==2.0.0
+fake-useragent==1.5.1
+requests-html==0.10.0
